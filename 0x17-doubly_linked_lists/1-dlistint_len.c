@@ -1,8 +1,8 @@
 #include "lists.h"
 
 /**
- * dlistint_len - Print every element of a doubly linked list
- * @h: pointer to list
+ * dlistint_len - count the number of nodes in the linked list
+ * @h: pointer to the beginning of a linked list
  *
  * Return: number of nodes
  */
