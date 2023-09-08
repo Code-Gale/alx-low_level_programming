@@ -1,1 +1,1 @@
-# Solutions to tasks on Hash tables
+Tasks for hash tables
